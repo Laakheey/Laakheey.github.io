@@ -55,3 +55,5 @@ const getWeather = async () => {
       break;
   }
 };
+
+getWeather()
